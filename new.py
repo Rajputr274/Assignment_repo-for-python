@@ -67,5 +67,5 @@ def reverse_words(str1):
     for word in words:
         print(word[::-1], end=" ")
 
-str1 = "this is python code@123 in vs version-35 address noida-11096"
-reverse_words(str1)
+# str1 = "this is python code@123 in vs version-35 address noida-11096"
+# reverse_words(str1)
