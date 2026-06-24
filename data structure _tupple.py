@@ -42,10 +42,19 @@
 #     sum+=i
 # print(sum)
 
-marks=(10,20,30,40,50,60,70,80,90)
-res= sum([i for i in range(len(marks))])
-print(res)
 
+# waf to sum of indices of  tupple (10,20,30,40,50,60,70,80,90)
+# marks=(10,20,30,40,50,60,70,80,90)
+# res= sum([i for i in range(len(marks))])
+# print(res)
+
+
+# lis=["python programming"]
+# new_lis=""
+# for i in lis:
+#     if i=="h" or i=="m":
+#         new_lis+=i
+# print(new_lis)
 
 
 
