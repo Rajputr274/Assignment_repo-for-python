@@ -69,10 +69,10 @@
 # print(res1)
 # print(res2)
 
-st_marks=[76,54,98]
-st_name=["rahul","aman","surendra"]
-res=zip(st_name,st_marks)
-print(dict(res))
+# st_marks=[76,54,98]
+# st_name=["rahul","aman","surendra"]
+# res=zip(st_name,st_marks)
+# print(dict(res))
 
 
 # stu_marks={'aman':300,"shivam":80,'rohan':40}
@@ -80,5 +80,7 @@ print(dict(res))
 
 # print(sum(v))
 
+
+  
 
 
