@@ -14,3 +14,6 @@ print(days)
 # union()
 
 
+my_set = {10, 20, 30,50,60,70}
+my_set.add(40)
+print(my_set)

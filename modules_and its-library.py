@@ -8,3 +8,11 @@
 # user-defined modules: created by user (custome modules)
 
 
+os= will be covered in file handling
+math module : Self 
+facker= file handling 
+
+
+ user-defined modules: created by user (custome modules)
+
+
