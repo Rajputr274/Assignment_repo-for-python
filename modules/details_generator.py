@@ -19,5 +19,5 @@ def create_details(files):
 path=r"C:\Users\Dell\Desktop\batch_118\python\modules\emp_name"
 
 files=os.chdir(path)
-files = os.listdir()  
+files = os.listdir() 
 create_details(files)
